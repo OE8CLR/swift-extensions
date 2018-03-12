@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = 'swift-extensions'
+  s.name             = 'SwiftExtensions'
   s.version          = '0.1'
   s.summary          = 'Useful swift extensions'
 

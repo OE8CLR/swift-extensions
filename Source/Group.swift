@@ -1,6 +1,6 @@
 //
 //  Group.swift
-//  iDeal
+//  SwiftExtensions
 //
 //  Created by Christoph Lückler on 21.02.18.
 //  Copyright © 2018 Christoph Lückler. All rights reserved.

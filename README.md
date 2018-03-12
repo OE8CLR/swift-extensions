@@ -1,4 +1,4 @@
-# swift-extensions
+# SwiftExtensions
 
 [![CI Status](http://img.shields.io/travis/oe8clr/swift-extensions.svg?style=flat)](https://travis-ci.org/oe8clr/swift-extensions
 [![Version](https://img.shields.io/cocoapods/v/swift-extensions.svg?style=flat)](http://cocoapods.org/pods/swift-extensions)
@@ -17,7 +17,7 @@ swift-extensions is available through [CocoaPods](http://cocoapods.org). To inst
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'swift-extensions', :git => 'https://github.com/OE8CLR/swift-extensions.git'
+pod 'SwiftExtensions', :git => 'https://github.com/OE8CLR/swift-extensions.git'
 ```
 
 ## Author
