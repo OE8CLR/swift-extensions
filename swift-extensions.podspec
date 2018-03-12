@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/OE8CLR/swift-extensions'
   s.license          = { :type => 'MIT' }
   s.author           = { 'Christoph Lückler' => 'oe8clr@me.net' }
-  s.source           = { :git => 'ssh://git@github.com:OE8CLR/swift-extensions.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/OE8CLR/swift-extensions.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
   

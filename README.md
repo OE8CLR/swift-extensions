@@ -17,7 +17,7 @@ swift-extensions is available through [CocoaPods](http://cocoapods.org). To inst
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'scp-ios-sdk-rxswift'
+pod 'swift-extensions', :git => 'https://github.com/OE8CLR/swift-extensions.git'
 ```
 
 ## Author
